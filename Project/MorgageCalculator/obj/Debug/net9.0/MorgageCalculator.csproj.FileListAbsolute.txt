@@ -1,0 +1,15 @@
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\bin\Debug\net9.0\MorgageCalculator.exe
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\bin\Debug\net9.0\MorgageCalculator.deps.json
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\bin\Debug\net9.0\MorgageCalculator.runtimeconfig.json
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\bin\Debug\net9.0\MorgageCalculator.dll
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\bin\Debug\net9.0\MorgageCalculator.pdb
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.AssemblyInfoInputs.cache
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.AssemblyInfo.cs
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.csproj.CoreCompileInputs.cache
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.sourcelink.json
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.dll
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\obj\Debug\net9.0\refint\MorgageCalculator.dll
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.pdb
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.genruntimeconfig.cache
+E:\developer\oop2-fall-2025-26\Project\MorgageCalculator\obj\Debug\net9.0\ref\MorgageCalculator.dll
