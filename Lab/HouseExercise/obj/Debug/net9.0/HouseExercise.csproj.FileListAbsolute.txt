@@ -1,0 +1,15 @@
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\net9.0\HouseExercise.exe
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\net9.0\HouseExercise.deps.json
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\net9.0\HouseExercise.runtimeconfig.json
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\net9.0\HouseExercise.dll
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\net9.0\HouseExercise.pdb
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.AssemblyInfoInputs.cache
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.AssemblyInfo.cs
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.csproj.CoreCompileInputs.cache
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.sourcelink.json
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.dll
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\refint\HouseExercise.dll
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.pdb
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.genruntimeconfig.cache
+E:\developer\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\ref\HouseExercise.dll
